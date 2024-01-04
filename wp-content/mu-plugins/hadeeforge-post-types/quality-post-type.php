@@ -4,7 +4,7 @@ function setup_quality() {
     register_post_type("Quality Section", [
         "label" => "Quality Section",
         "labels" => [
-            "name" => "Quality Section",
+            "name" => "Quality Page",
             "singular_name" => "Quality Section",
             "add_new_item" => "Add new Quality Section",
             "edit_item" => "Edit Quality Section",

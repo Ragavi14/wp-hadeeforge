@@ -4,7 +4,7 @@ function setup_contact() {
     register_post_type("Contact Section", [
         "label" => "Contact Section",
         "labels" => [
-            "name" => "Contact Section",
+            "name" => "Contact Page",
             "singular_name" => "Contact Section",
             "add_new_item" => "Add new Contact Section",
             "edit_item" => "Edit Contact Section",

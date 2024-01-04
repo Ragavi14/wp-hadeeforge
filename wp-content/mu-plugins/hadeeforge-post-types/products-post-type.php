@@ -4,7 +4,7 @@ function setup_products() {
     register_post_type("Products Section", [
         "label" => "Products Section",
         "labels" => [
-            "name" => "Products Section",
+            "name" => "Products Page",
             "singular_name" => "Products Section",
             "add_new_item" => "Add new Products Section",
             "edit_item" => "Edit Products Section",

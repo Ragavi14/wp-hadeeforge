@@ -4,7 +4,7 @@ function setup_facilities() {
     register_post_type("Facilities Section", [
         "label" => "Facilities Section",
         "labels" => [
-            "name" => "Facilities Section",
+            "name" => "Facilities Page",
             "singular_name" => "Facilities Section",
             "add_new_item" => "Add new Facilities Section",
             "edit_item" => "Edit Facilities Section",

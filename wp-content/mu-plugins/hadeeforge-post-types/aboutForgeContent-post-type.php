@@ -4,7 +4,7 @@ function setup_aboutForge() {
     register_post_type("AboutForge Section", [
         "label" => "AboutForge Section",
         "labels" => [
-            "name" => "AboutForge Section",
+            "name" => "AboutForge Page",
             "singular_name" => "AboutForge Section",
             "add_new_item" => "Add new AboutForge Section",
             "edit_item" => "Edit AboutForge Section",
