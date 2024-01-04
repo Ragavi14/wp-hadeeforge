@@ -20,13 +20,13 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'wp-hadeeforge' );
+define( 'DB_NAME', 'wp_hadeeforg' );
 
 /** Database username */
 define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'passworD@123' );
+define( 'DB_PASSWORD', '$QgIcsnU8QNnJ7&AA1' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
