@@ -18,3 +18,4 @@ require WPMU_PLUGIN_DIR."/hadeeforge-post-types/homePage-post-type.php";
 require WPMU_PLUGIN_DIR."/hadeeforge-post-types/aboutPage-post-type.php";
 require WPMU_PLUGIN_DIR."/hadeeforge-post-types/careersPage-post-type.php";
 require WPMU_PLUGIN_DIR."/hadeeforge-post-types/productsDetails-post-type.php";
+require WPMU_PLUGIN_DIR."/hadeeforge-post-types/send-mail.php";
